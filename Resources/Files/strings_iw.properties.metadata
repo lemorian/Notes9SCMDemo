@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="65257FDC000EC716" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="f7a" sequence="11" unid="66E8CD3C052520BC80257BB000407EB0">
+<created><datetime dst="true">20130722T124427,36+01</datetime></created>
+<modified><datetime>20160624T081142,47+0530</datetime></modified>
+<revised><datetime dst="true">20131002T111114,47-04</datetime></revised>
+<lastaccessed><datetime>20160624T081142,47+0530</datetime></lastaccessed>
+<addedtofile><datetime>20160624T081142,47+0530</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$Flags"><text>345CgQ</text></item>
+<item name="$TITLE"><text>strings_iw.properties</text></item>
+<item name="$MimeCharSet" sign="true"><text>ISO-8859-1</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+
+
+<item name="$FileNames" sign="true"><text>strings_iw.properties</text></item></note>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="65257FDC000EC716" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="7ee" sequence="38" unid="D0BF5A5FE541A90380257949003E7087">
+<created><datetime dst="true">20111115T122200,39+01</datetime></created>
+<modified><datetime>20160624T081132,81+0530</datetime></modified>
+<revised><datetime dst="true">20131002T111105,61-04</datetime></revised>
+<lastaccessed><datetime>20160624T081132,81+0530</datetime></lastaccessed>
+<addedtofile><datetime>20160624T081132,81+0530</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$TITLE"><text>android.theme</text></item>
+<item name="$Flags"><text>34567Cg~`</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>android.theme</text></item></note>

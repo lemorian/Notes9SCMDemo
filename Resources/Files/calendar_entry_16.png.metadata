@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="65257FDC000EC716" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="522" sequence="32" unid="D4A9F99859F7A129802577E0004D05FE">
+<created><datetime dst="true">20101119T150118,06+01</datetime></created>
+<modified><datetime>20160624T081129,23+0530</datetime></modified>
+<revised><datetime dst="true">20131002T111102,09-04</datetime></revised>
+<lastaccessed><datetime>20160624T081129,23+0530</datetime></lastaccessed>
+<addedtofile><datetime>20160624T081129,23+0530</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></updatedby>
+<wassignedby><name>CN=Lotus Notes Template Development/O=Lotus Notes</name></wassignedby>
+<item name="$TITLE"><text>calendar_entry_16.png</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$FileModDT" sign="true"><datetime dst="true">20100603T170156,00+01</datetime></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>calendar_entry_16.png</text></item>
+<item name="$EditFilePath" sign="true"><text>C:\Users\ieu68609\AppData\Local\Temp\notesC9812B\~calendar_entry_16.png</text></item>
+<item name="$Flags"><text>345CgQ$</text></item></note>
